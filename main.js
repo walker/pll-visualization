@@ -1,5 +1,5 @@
 _u = _.noConflict();
-//note, check use of "link" in getRelated Function which may cause scopoing issue with d3 link references>?
+//note, check use of "link" in getRelated Function which may cause scoping issue with d3 link references>?
 _cw_domain_path = "https://domain.com/cityworks/";
 
 $.urlParam = function (name) {
